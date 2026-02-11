@@ -56,13 +56,6 @@ Each question was solved using SQL aggregation, filtering and ranking techniques
 
 ---
 
-## 📈 Dashboard Preview
-
-A visual dashboard was created to summarize restaurant distribution, cuisine popularity, pricing segments, and ratings comparison.
-
-
----
-
 
 
 ---
